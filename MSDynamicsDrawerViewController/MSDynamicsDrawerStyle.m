@@ -37,7 +37,7 @@
 {
     self = [super init];
     if (self) {
-        self.parallaxOffsetFraction = 0.35;
+        self.parallaxOffsetFraction = 0.35; 
     }
     return self;
 }
